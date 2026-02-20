@@ -1,0 +1,6 @@
+flet
+pandas
+openpyxl
+reportlab
+matplotlib
+numpy
