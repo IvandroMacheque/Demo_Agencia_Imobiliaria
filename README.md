@@ -23,7 +23,7 @@ O objetivo é organizar a ocupação dos apartamentos, controlar o inventário e
 
 - Python
 - Flet (interface)
-- Estrutura baseada em lógica modular
+- Estrutura baseada em lógica
 - Organização por funções e separação de responsabilidades
 
 ---
